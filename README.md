@@ -1,4 +1,3 @@
-# Danny-s-Pizza-Runner-Case-Study---SQL-
 # Danny's Pizza Runner Case Study - SQL Analysis
 
 ## Project Overview
